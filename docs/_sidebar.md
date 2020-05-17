@@ -1,10 +1,11 @@
 - [Introduction](/ "Momentum - State Management for Flutter")
-- Getting Started
+- **Getting Started**
     - [Quickstart](quickstart.md "Momentum - Quickstart")
     - [The Boilerplate Code](boilerplate-code.md "Momentum - Boilerplate Codes")
     - [Project Structure Convention](conventions.md "Momentum - Project Structure Convention")
-- Features
+- **Features**
     - [Access & Control Everything](feature-control-everything.md "Momentum - Easily access any Controllers and Models")
     - [Avoid Context Hell](avoid-context-hell.md "Momentum - Avoid context hell")
     - [Time Travel Support](time-travel.md "Momentum - Time Travel methods")
     - [Reset your State](reset-state.md "Momentum - Reset you State")
+    - [Skip Rebuilds](skip-rebuilds.md "Momentum - Skip Rebuilds")
