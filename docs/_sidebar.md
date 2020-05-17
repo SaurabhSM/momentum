@@ -3,3 +3,6 @@
     - [Quickstart](quickstart.md "Momentum - Quickstart")
     - [The Boilerplate Code](boilerplate-code.md "Momentum - Boilerplate Codes")
     - [Project Structure Convention](conventions.md "Momentum - Project Structure Convention")
+- Features
+    - [Access & Control Everything](feature-control-everything.md "Momentum - Easily access any Controllers and Models")
+    - 
