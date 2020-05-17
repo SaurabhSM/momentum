@@ -5,4 +5,4 @@
     - [Project Structure Convention](conventions.md "Momentum - Project Structure Convention")
 - Features
     - [Access & Control Everything](feature-control-everything.md "Momentum - Easily access any Controllers and Models")
-    - 
+    - [Avoid Context Hell](avoid-context-hell.md "Momentum - Avoid context hell")
