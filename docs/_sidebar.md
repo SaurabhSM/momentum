@@ -1,2 +1,5 @@
-- [Home](/ "Momentum - State Management for Flutter")
-- [Getting Started](getting-started.md "Setup your project to work with momentum")
+- [Introduction](/ "Momentum - State Management for Flutter")
+- Getting Started
+    - [Quickstart](quickstart.md "Momentum - Quickstart")
+    - [The Boilerplate Code](boilerplate-code.md "Momentum - Boilerplate Codes")
+    - [Project Structure Convention](conventions.md "Momentum - Project Structure Convention")

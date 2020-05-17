@@ -1,3 +1,6 @@
+# Quickstart
+This will guide you on how to make a simple counter app with momentum.
+
 ## Install momentum
 
 Add `momentum: LATEST_VERSION` on your `pubspec.yaml` file.
