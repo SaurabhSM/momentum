@@ -1,0 +1,10 @@
+.packages
+pubspec.lock
+.dart_tool/package_config.json
+example/.dart_tool/package_config.json
+example/android/local.properties
+example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+example/ios/Flutter/flutter_export_environment.sh
+example/ios/Flutter/Generated.xcconfig
+example/ios/Runner/GeneratedPluginRegistrant.h
+example/ios/Runner/GeneratedPluginRegistrant.m
